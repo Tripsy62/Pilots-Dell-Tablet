@@ -7,5 +7,5 @@ to the iso to make the installation easier.
 If you already have windows, open a terminal as 
 administrator, move into the drivers file
 and type this command :
-  pnputil /add-driver *.inf /subdirs /install
+  "pnputil /add-driver *.inf /subdirs /install"
 And after everything is installed, you will simply need to restart.
